@@ -1,4 +1,4 @@
-# Email Header Analysis — Breaking Down a Scam Email
+# Breaking Down a Scam Email
 
 ## Introduction
 
