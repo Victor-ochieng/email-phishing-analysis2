@@ -70,6 +70,9 @@ In simple terms, this means:
 - There is no policy protecting the domain  
 
 A legitimate email usually passes at least one of these checks. This one fails all of them.
+## Email Header Analysis Screenshot
+
+![Header Analysis](screenshots/spf.png)
 
 ---
 
