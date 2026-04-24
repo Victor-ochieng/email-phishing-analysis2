@@ -1,1 +1,24 @@
+FROM:    "Mr.Wood Forest" <nemani.tukunia@postfiji.com.fj>
+            (spoofed identity)
+
+TO:       Recipients <nemani.tukunia@postfiji.com.fj>
+            (Target appears to be internal)
+
+SUBJECT:  Attention:I am Diplomatic agent Mr.Wood Forest,
+            (Social engineering hook)
+
+DATE:      Sat, 29 Jul 2023 13:03:39 -0700
+
+REPLY-TO:    mywoodforestbiz.7@gmail.com
+              (not claimed domain)
+
+SENDER server IP:  85.208.139.60  109.202.24.52
+                                    (actual sending source)
+
+RETURN-PATH:       nemani.tukunia@postfiji.com.fj
+
+MESSAGE-ID:      <CENTRALoY5uIBUevIXn0001393a@54upr.rosreestr.ru>
+                     (sending server which is not related to postfiji.com.fj)
+
+URL:   NONE
 
