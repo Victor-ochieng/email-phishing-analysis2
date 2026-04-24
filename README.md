@@ -15,6 +15,7 @@ The email in question claims that someone is delivering 10.5 million USD and urg
 The message tries to create urgency and excitement at the same time. It says the sender is a “Diplomatic agent” who has just arrived with a large sum of money and needs your address and phone number immediately.
 
 This is a well-known scam pattern. The attacker is trying to rush you into acting before you think.
+![Header Analysis](screenshots/outlook.png)
 
 ---
 
