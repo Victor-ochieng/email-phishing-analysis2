@@ -51,6 +51,13 @@ Now compare that to the claimed sender domain: postfiji.com.fj.
 They have nothing in common.
 
 This tells us that the email did not come from where it claims. Someone is pretending.
+![Header Analysis](screenshots/ip-analysis5.png)
+![Header Analysis](screenshots/ip-analysis6.png)
+![Header Analysis](screenshots/ip-analysis1.png)
+![Header Analysis](screenshots/ip-analysis2.png)
+![Header Analysis](screenshots/ip-analysis3.png)
+![Header Analysis](screenshots/ip-analysis4.png)
+
 
 ---
 
